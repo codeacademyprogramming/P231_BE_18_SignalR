@@ -1,0 +1,44 @@
+﻿@model List<AppUser>
+
+@{
+    ViewData["Title"] = "Index";
+    int dataOrder = 0;
+}
+
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <h1>Authors</h1> <a class="btn btn-primary" asp-action="create">Create</a>
+        </div>
+        <div class="col-md-8">
+            <table class="table table-bordered" id="usersTable">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">FullName</th>
+                        <th scope="col">UserName</th>
+                        <th scope="col">Email</th>
+                        <th scope="col">Phone</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        dataOrder++;
+                        <tr>
+                            <th scope="row">@dataOrder</th>
+                            <td data-id="@item.Id"><span class="status-dot status-dot-@(item.IsOnline?"online":"offline")"></span> @item.FullName</td>
+                            <td>@item.UserName</td>
+                            <td>@item.Email</td>
+                            <td>@item.PhoneNumber</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+
+
