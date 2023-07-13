@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5Wg0QN5XuygJDy/ms1/pNGvqwErAXVpH9/EhQ7OcW1IQMA9TKIxTBeJkwzvXDMWSnlhz1Zd69znGkFEDRvQksg==",
+  "dgSpecHash": "pybzTblmZqCWQicGSPpTO9FLAm4oCR8WZ7Ju2fxygdE3f2xUgRCQI81SG3FlxVLHdQBmi09Vq3wFHm4Pl6EEcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\elchin\\Desktop\\CodeLessons\\18. 04-07-2023\\Pustok\\Pustok\\Pustok.csproj",
+  "projectFilePath": "C:\\Users\\elchin\\Desktop\\P231_BE_18_SignalR\\Pustok\\Pustok\\Pustok.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elchin\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\elchin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

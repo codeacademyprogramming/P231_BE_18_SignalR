@@ -21514,3 +21514,7 @@ p.form-messege {
           transform: rotate(90deg); }
   .accordion .card .card-body {
     padding: 0 30px 30px; }
+
+.main-menu .active {
+    color: #62ab00 !important;
+}

@@ -64,5 +64,11 @@ namespace Pustok.Controllers
             HttpContext.Response.Cookies.Delete(key);
             return Content("");
         }
+
+
+        public IActionResult Contact()
+        {
+            return View();
+        }
     }
 }

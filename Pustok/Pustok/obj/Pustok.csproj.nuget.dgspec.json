@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elchin\\Desktop\\CodeLessons\\18. 04-07-2023\\Pustok\\Pustok\\Pustok.csproj": {}
+    "C:\\Users\\elchin\\Desktop\\P231_BE_18_SignalR\\Pustok\\Pustok\\Pustok.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elchin\\Desktop\\CodeLessons\\18. 04-07-2023\\Pustok\\Pustok\\Pustok.csproj": {
+    "C:\\Users\\elchin\\Desktop\\P231_BE_18_SignalR\\Pustok\\Pustok\\Pustok.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elchin\\Desktop\\CodeLessons\\18. 04-07-2023\\Pustok\\Pustok\\Pustok.csproj",
+        "projectUniqueName": "C:\\Users\\elchin\\Desktop\\P231_BE_18_SignalR\\Pustok\\Pustok\\Pustok.csproj",
         "projectName": "Pustok",
-        "projectPath": "C:\\Users\\elchin\\Desktop\\CodeLessons\\18. 04-07-2023\\Pustok\\Pustok\\Pustok.csproj",
+        "projectPath": "C:\\Users\\elchin\\Desktop\\P231_BE_18_SignalR\\Pustok\\Pustok\\Pustok.csproj",
         "packagesPath": "C:\\Users\\elchin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elchin\\Desktop\\CodeLessons\\18. 04-07-2023\\Pustok\\Pustok\\obj\\",
+        "outputPath": "C:\\Users\\elchin\\Desktop\\P231_BE_18_SignalR\\Pustok\\Pustok\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elchin\\AppData\\Roaming\\NuGet\\NuGet.Config",
